@@ -19,7 +19,11 @@ slow pages, or custom dev. Good Native apps embrace your brand, they don't break
 
 ---
 
-## 🌸 Bloom — Pre-order & Notify Me for Shopify
+## Bloom — Pre-order & Notify Me for Shopify
+
+<a href="https://www.goodnative.co/bloom">
+  <img src="https://raw.githubusercontent.com/Good-Native/.github/main/profile/img/bloom-logo.png" height="34" alt="Bloom — pre-order and Notify Me app for Shopify">
+</a>
 
 **Turn out-of-stock moments into future sales.**
 
@@ -37,7 +41,14 @@ slow pages, or custom dev. Good Native apps embrace your brand, they don't break
 
 <br clear="right">
 
-## 🐝 Hover — Site Health Checker
+## Hover — Site Health Checker
+
+<a href="https://www.goodnative.co/hover">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Good-Native/.github/main/profile/img/hover-logo.png">
+    <img src="https://raw.githubusercontent.com/Good-Native/.github/main/profile/img/hover-logo-dark.png" height="34" alt="Hover — site health checker for broken links, slow pages, and cache">
+  </picture>
+</a>
 
 **Find problems before they cost you sales.**
 
@@ -49,7 +60,14 @@ slow pages, or custom dev. Good Native apps embrace your brand, they don't break
 
 <br clear="right">
 
-## 🌱 Sprout — In development
+## Sprout — In development
+
+<a href="https://www.goodnative.co/sprout">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Good-Native/.github/main/profile/img/sprout-logo.png">
+    <img src="https://raw.githubusercontent.com/Good-Native/.github/main/profile/img/sprout-logo-dark.png" height="32" alt="Sprout — dynamic routing for paid traffic">
+  </picture>
+</a>
 
 **Grow more from the traffic you already pay for.**
 

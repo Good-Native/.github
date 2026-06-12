@@ -26,6 +26,7 @@ slow pages, or custom dev. Good Native apps embrace your brand, they don't break
 </a>
 
 **Turn out-of-stock moments into future sales.**
+*Alpha stage — taking on a limited number of trial merchants.*
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/Good-Native/.github/main/profile/img/bloom-pdp.png" alt="Bloom pre-order and Notify Me on Shopify product pages — Join Waitlist and Pre-order examples">
 
@@ -51,16 +52,17 @@ slow pages, or custom dev. Good Native apps embrace your brand, they don't break
 </a>
 
 **Find problems before they cost you sales.**
+*In development.*
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/Good-Native/.github/main/profile/img/hover-metrics.png" alt="Hover site health dashboard — cache performance, response times, and broken link reports">
 
 [Hover](https://www.goodnative.co/hover) monitors your site's health — catching broken links and performance issues early, identifying slow pages, highlighting pages running without cache, and surfacing issues impacting SEO, paid media, and conversion. Integrates with Webflow, with scheduled crawls and publish-triggered cache warming.
 
-→ [Sign up to the beta](https://www.goodnative.co/hover) · [Source on GitHub](https://github.com/Good-Native/hover)
+→ [Learn more about Hover](https://www.goodnative.co/hover)
 
 <br clear="right">
 
-## Sprout — In development
+## Sprout
 
 <a href="https://www.goodnative.co/sprout">
   <picture>
@@ -70,6 +72,7 @@ slow pages, or custom dev. Good Native apps embrace your brand, they don't break
 </a>
 
 **Grow more from the traffic you already pay for.**
+*In development.*
 
 [Sprout](https://www.goodnative.co/sprout) dynamically routes visitors based on market, product, and unique ID — while retaining Meta social proof.
 
@@ -81,8 +84,8 @@ slow pages, or custom dev. Good Native apps embrace your brand, they don't break
 
 | Project | What it does |
 | --- | --- |
-| 🐝 [**hover**](https://github.com/Good-Native/hover) | Website health and performance monitoring — broken link detection, slow page checks, and cache warming. Built in Go. |
 | 🌿 [**paperbark**](https://github.com/Good-Native/paperbark) | Cross-source log capture, search, and analysis CLI (Fly.io, Cloudflare, Kubernetes, CloudWatch). On [PyPI](https://pypi.org/project/paperbark/). |
+| 🪶 [**currawong**](https://github.com/Good-Native/currawong) | GTM ↔ GitHub sync — manage curated Google Tag Manager containers as code. |
 
 ---
 

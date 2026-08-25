@@ -26,7 +26,7 @@ slow pages, or custom dev. Good Native apps embrace your brand, they don't break
 </a>
 
 **Turn out-of-stock moments into future sales.**
-*Alpha stage — taking on a limited number of trial merchants.*
+*Pre-release — taking on a limited number of trial merchants.*
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/Good-Native/.github/main/profile/img/bloom-pdp.png" alt="Bloom pre-order and Notify Me on Shopify product pages — Join Waitlist and Pre-order examples">
 
@@ -54,7 +54,7 @@ slow pages, or custom dev. Good Native apps embrace your brand, they don't break
 </a>
 
 **Find problems before they cost you sales.**
-*In development.*
+*Alpha.*
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/Good-Native/.github/main/profile/img/hover-metrics.png" alt="Hover site health dashboard — cache performance, response times, and broken link reports">
 
@@ -76,7 +76,7 @@ slow pages, or custom dev. Good Native apps embrace your brand, they don't break
 </a>
 
 **Grow more from the traffic you already pay for.**
-*In development.*
+*Prototype.*
 
 [Sprout](https://www.goodnative.co/sprout) dynamically routes visitors based on market, product, and unique ID — while retaining Meta social proof.
 
@@ -89,22 +89,47 @@ slow pages, or custom dev. Good Native apps embrace your brand, they don't break
 ## Storr — Store Locator & Stockists
 
 **Show customers where to buy, online and in store.**
-*In development.*
+*Scoping.*
 
 Storr adds a store locator and stockist directory to any Shopify store — so brands selling through retailers can point every customer to the nearest shelf.
 
 *The name — Storr's monitor (Varanus storri), a tiny Australian goanna that lives in colonies scattered across the rocky north, each one faithful to its own outcrop. Storr maps a brand the same way: one family, many locations, every one worth finding.*
 
----
+## Paperbark — Log Capture & Analysis CLI
 
-## 🔧 Open source
+**One CLI for logs from everywhere.**
+*Alpha.*
 
-| Project                                                      | What it does                                                                                                                                     | The name                                                                                     |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
-| 🌿 [**paperbark**](https://github.com/Good-Native/paperbark) | Cross-source log capture, search, and analysis CLI (Fly.io, Cloudflare, Kubernetes, CloudWatch). On [PyPI](https://pypi.org/project/paperbark/). | The tree that keeps its story in layers of papery bark — a written record you can peel back. |
-| 🪶 [**currawong**](https://github.com/Good-Native/currawong) | GTM ↔ GitHub sync — manage curated Google Tag Manager containers as code.                                                                       | The observer-bird that watches from height and calls to mark what's there.                   |
-| 🦉 [**mopoke**](https://github.com/Good-Native/mopoke) | DNS cutover watcher — polls records and logs the exact moment each one flips. On [npm](https://www.npmjs.com/package/@good-native/mopoke). | The owl known by the sound of its own call — sits still through the night, calls when there’s something to say. |
-| 💧 [**sundew**](https://github.com/Good-Native/sundew) | Chrome extension that quietly captures browsing history into a Google Sheet, hourly. | The carnivorous plant that passively, continuously captures whatever lands on it. |
+[Paperbark](https://github.com/Good-Native/paperbark) captures logs from many sources — Fly.io, Cloudflare, Kubernetes, CloudWatch, plain files, stdin — runs configurable probes over them, and writes a stable run layout that downstream tooling can search. Open source, on [PyPI](https://pypi.org/project/paperbark/).
+
+*The name — the tree that keeps its story in layers of papery bark: a written record you can peel back.*
+
+## Currawong — GTM as Code
+
+**Your Tag Manager containers, in git.**
+*Alpha.*
+
+[Currawong](https://github.com/Good-Native/currawong) syncs Google Tag Manager with GitHub — `main` is a mirror of live GTM, and pull requests are the mechanism for code-driven changes. Open source.
+
+*The name — the observer-bird that watches from height and calls to mark what's there.*
+
+## Mopoke — DNS Cutover Watcher
+
+**Know the moment your cutover lands.**
+*Alpha.*
+
+[Mopoke](https://github.com/Good-Native/mopoke) polls the DNS records you expect, redraws in place, and logs the exact moment each one flips. Open source, on [npm](https://www.npmjs.com/package/@good-native/mopoke).
+
+*The name — the owl known by the sound of its own call: sits still through the night, calls when there's something to say.*
+
+## Sundew — Browsing History Capture
+
+**Your browsing trail, quietly kept.**
+*Alpha.*
+
+[Sundew](https://github.com/Good-Native/sundew) is a Chrome extension that captures browsing history into a Google Sheet on a schedule — per device, deduplicated, queued offline. Open source.
+
+*The name — the carnivorous plant that passively, continuously captures whatever lands on it.*
 
 ---
 

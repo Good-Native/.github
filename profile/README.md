@@ -38,6 +38,8 @@ slow pages, or custom dev. Good Native apps embrace your brand, they don't break
 - **Matches your brand** — buttons, messaging, fonts, colours, and spacing, with predefined style sets
 - **Built for reporting** — orders and line items tagged with pre-order, so you can monitor demand and optimise inventory ordering
 
+*The name — the banksia in Bloom's logo, native to our home of Castlemaine, holds its seed until conditions are right to release. Bloom holds demand the same way: sold-out moments flowering into future sales.*
+
 → [Get early access](https://www.goodnative.co/bloom) · [Bloom help docs](https://help.goodnative.co)
 
 <br clear="right">
@@ -58,6 +60,8 @@ slow pages, or custom dev. Good Native apps embrace your brand, they don't break
 
 [Hover](https://www.goodnative.co/hover) monitors your site's health — catching broken links and performance issues early, identifying slow pages, highlighting pages running without cache, and surfacing issues impacting SEO, paid media, and conversion. Integrates with Webflow, with scheduled crawls and publish-triggered cache warming.
 
+*The name — the blue-banded bee, another Castlemaine native, hovers in place while it works. Hover does the same over your site: steady, watchful, never in the way.*
+
 → [Learn more about Hover](https://www.goodnative.co/hover)
 
 <br clear="right">
@@ -76,16 +80,18 @@ slow pages, or custom dev. Good Native apps embrace your brand, they don't break
 
 [Sprout](https://www.goodnative.co/sprout) dynamically routes visitors based on market, product, and unique ID — while retaining Meta social proof.
 
+*The name — the first green from seed already sown. Sprout grows more from the visitors you've already bought.*
+
 <img width="500" src="https://raw.githubusercontent.com/Good-Native/.github/main/profile/img/sprout-diagram.png" alt="Sprout dynamic routing — AU visitor sent to variant, US visitor sent to US store">
 
 ---
 
 ## 🔧 Open source
 
-| Project | What it does |
-| --- | --- |
-| 🌿 [**paperbark**](https://github.com/Good-Native/paperbark) | Cross-source log capture, search, and analysis CLI (Fly.io, Cloudflare, Kubernetes, CloudWatch). On [PyPI](https://pypi.org/project/paperbark/). |
-| 🪶 [**currawong**](https://github.com/Good-Native/currawong) | GTM ↔ GitHub sync — manage curated Google Tag Manager containers as code. |
+| Project                                                      | What it does                                                                                                                                     | The name                                                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
+| 🌿 [**paperbark**](https://github.com/Good-Native/paperbark) | Cross-source log capture, search, and analysis CLI (Fly.io, Cloudflare, Kubernetes, CloudWatch). On [PyPI](https://pypi.org/project/paperbark/). | The tree that keeps its story in layers of papery bark — a written record you can peel back. |
+| 🪶 [**currawong**](https://github.com/Good-Native/currawong) | GTM ↔ GitHub sync — manage curated Google Tag Manager containers as code.                                                                       | The observer-bird that watches from height and calls to mark what's there.                   |
 
 ---
 

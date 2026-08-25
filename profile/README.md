@@ -124,6 +124,13 @@ Storr adds a store locator and stockist directory to any Shopify store — so br
 
 ## Sundew — Browsing History Capture
 
+<a href="https://github.com/Good-Native/sundew">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Good-Native/.github/main/profile/img/sundew-wordmark-red-on-yellow.png">
+    <img src="https://raw.githubusercontent.com/Good-Native/.github/main/profile/img/sundew-wordmark-yellow-on-red.png" height="34" alt="Sundew — Chrome extension that captures browsing history to a Google Sheet">
+  </picture>
+</a>
+
 **Your browsing trail, quietly kept.**
 *Alpha.*
 

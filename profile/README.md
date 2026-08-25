@@ -93,6 +93,8 @@ slow pages, or custom dev. Good Native apps embrace your brand, they don't break
 
 Storr adds a store locator and stockist directory to any Shopify store — so brands selling through retailers can point every customer to the nearest shelf.
 
+*The name — Storr's monitor (Varanus storri), a tiny Australian goanna that lives in colonies scattered across the rocky north, each one faithful to its own outcrop. Storr maps a brand the same way: one family, many locations, every one worth finding.*
+
 ---
 
 ## 🔧 Open source
@@ -102,6 +104,7 @@ Storr adds a store locator and stockist directory to any Shopify store — so br
 | 🌿 [**paperbark**](https://github.com/Good-Native/paperbark) | Cross-source log capture, search, and analysis CLI (Fly.io, Cloudflare, Kubernetes, CloudWatch). On [PyPI](https://pypi.org/project/paperbark/). | The tree that keeps its story in layers of papery bark — a written record you can peel back. |
 | 🪶 [**currawong**](https://github.com/Good-Native/currawong) | GTM ↔ GitHub sync — manage curated Google Tag Manager containers as code.                                                                       | The observer-bird that watches from height and calls to mark what's there.                   |
 | 🦉 [**mopoke**](https://github.com/Good-Native/mopoke) | DNS cutover watcher — polls records and logs the exact moment each one flips. On [npm](https://www.npmjs.com/package/@good-native/mopoke). | The owl known by the sound of its own call — sits still through the night, calls when there’s something to say. |
+| 💧 [**sundew**](https://github.com/Good-Native/sundew) | Chrome extension that quietly captures browsing history into a Google Sheet, hourly. | The carnivorous plant that passively, continuously captures whatever lands on it. |
 
 ---
 

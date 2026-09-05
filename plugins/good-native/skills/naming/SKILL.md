@@ -43,7 +43,7 @@ name's story in its overview panel; new names must be added there too.
 
 ## Running a naming session
 
-Do NOT jump to candidates. A naming session has five stages, and the first
+Do NOT jump to candidates. A naming session has six stages, and the first
 is a conversation.
 
 ### 1. Qualify — ask first, then wait
@@ -63,18 +63,36 @@ plain conversation; skip only the ones already answered by the brief):
   in conversation and on the profile?
 - **Priors:** names or words already loved, hated, or reserved?
 
-### 2. Research the local field — species first
+### 2. Study the incumbents — complaints and loved features
+
+Before naming anything, research the **top 5–10 apps in the category** (the
+relevant registry's search results, ranked by installs/reviews). For each,
+read a sample of reviews — especially 1–2★ and 5★ — and pull out:
+
+- **Complaints:** what merchants hate — the recurring failures, bloat,
+  pricing traps, support gaps.
+- **Loved features:** what earns the 5★ reviews — the moments merchants
+  actually praise.
+
+Distil into two lists: **(a) carry** — table stakes the category's best do
+well that we must match; **(b) differ** — the gaps and gripes where we'll be
+distinct. This vaguely informs product development, but its main job here is
+naming: the behaviour worth naming is usually something on the **differ**
+list, and the qualifying answer to "the edge" should be checked against it.
+Present both lists to the user before shortlisting.
+
+### 3. Research the local field — species first
 
 Ground candidates in real species before wordplay. Search (web) for species
 of **Castlemaine, the Box–Ironbark forests, and central Victoria** whose
-_behaviour_ matches the verb from stage 1 — birds, native bees and insects,
-reptiles, mammals, orchids and wildflowers, fungi, trees. Local field guides,
-Connecting Country, Museums Victoria, and iNaturalist searches scoped to the
-region are good sources. A plain nature word is allowed only when a specific
-local species will carry the anchor in the logo — name that species at
-shortlist time, not later.
+_behaviour_ matches the verb from stage 1 and the edge from stage 2 — birds,
+native bees and insects, reptiles, mammals, orchids and wildflowers, fungi,
+trees. Local field guides, Connecting Country, Museums Victoria, and
+iNaturalist searches scoped to the region are good sources. A plain nature
+word is allowed only when a specific local species will carry the anchor in
+the logo — name that species at shortlist time, not later.
 
-### 3. Shortlist — distinct, not generic
+### 4. Shortlist — distinct, not generic
 
 Produce **6–10 candidates**, each with: species (or word + anchor species),
 the one-sentence behaviour match, and its distinctiveness. Reject:
@@ -86,7 +104,7 @@ the one-sentence behaviour match, and its distinctiveness. Reject:
 
 A good candidate feels ownable: rare enough to search, real enough to draw.
 
-### 4. Score and verify — never skip this stage
+### 5. Score and verify — never skip this stage
 
 Every candidate presented to the user MUST carry a score row and a live
 availability check. Asking good questions does not replace verification.
@@ -113,10 +131,10 @@ Score honestly — a 25/25 shortlist means the scoring is decorative.
 
 State what was checked and what was found next to each verified candidate.
 
-### 5. Rationale
+### 6. Rationale
 
 Write the "The name" paragraph. If it writes itself, ship it; if it needs
-three drafts, return to stage 2. Names are durable — renaming is only for
+three drafts, return to stage 3. Names are durable — renaming is only for
 legal conflict or genuine scope change, never fashion.
 
 ## When a name ships

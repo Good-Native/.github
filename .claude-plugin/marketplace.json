@@ -7,9 +7,9 @@
   },
   "plugins": [
     {
-      "name": "naming",
-      "source": "./plugins/naming",
-      "description": "Good Native naming principles \u2014 apply when naming products, tools, repos, or packages, and when writing name rationales"
+      "name": "good-native",
+      "source": "./plugins/good-native",
+      "description": "Good Native naming principles — apply when naming products, tools, repos, or packages, and when writing name rationales"
     }
   ]
 }

@@ -1,0 +1,14 @@
+{
+  "name": "good-native",
+  "owner": {
+    "name": "Good Native",
+    "url": "https://www.goodnative.co"
+  },
+  "plugins": [
+    {
+      "name": "naming",
+      "source": "./plugins/naming",
+      "description": "Good Native naming principles — apply when naming products, tools, repos, or packages, and when writing name rationales"
+    }
+  ]
+}

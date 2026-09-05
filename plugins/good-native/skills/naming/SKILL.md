@@ -86,14 +86,32 @@ the one-sentence behaviour match, and its distinctiveness. Reject:
 
 A good candidate feels ownable: rare enough to search, real enough to draw.
 
-### 4. Verify
+### 4. Score and verify — never skip this stage
 
-- Say it out loud — support call, standup, "have you tried \_\_\_?".
-- Availability: `goodnative.co/x`, the relevant registry (Shopify App Store,
-  npm, PyPI — check live, not from memory), trademark collisions, same-named
-  software nearby.
-- Family: at home in the org repo list; no near-duplicates in sound or
-  meaning; whole-family sibling lists stay consistent.
+Every candidate presented to the user MUST carry a score row and a live
+availability check. Asking good questions does not replace verification.
+
+**Score each candidate 1–5 on:**
+
+| Criterion       | 5 means                                                     |
+| --------------- | ----------------------------------------------------------- |
+| Behaviour match | The nature-does-Y sentence is exact, no stretch             |
+| Speakability    | Effortless in a support call — "have you tried \_\_\_?"     |
+| Clarity         | Heard once, spelled right; no homophone or spelling traps   |
+| Distinctness    | Ownable in search; no software, brand, or app nearby        |
+| Family fit      | Sits naturally in the org repo list, no sound/meaning clash |
+
+Present the shortlist as a table with these five scores plus a total, ranked.
+Score honestly — a 25/25 shortlist means the scoring is decorative.
+
+**Verify (live tool calls, not memory) at least the top 2–3:**
+
+- Registry search: Shopify App Store / npm / PyPI as relevant — fetch the
+  actual search results.
+- Web search for the word + product space (trademark and brand collisions).
+- `goodnative.co/x` is Good Native's to take — note it, don't check it.
+
+State what was checked and what was found next to each verified candidate.
 
 ### 5. Rationale
 

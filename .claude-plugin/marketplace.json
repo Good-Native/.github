@@ -1,5 +1,6 @@
 {
   "name": "good-native",
+  "description": "Good Native shared Claude Code plugins",
   "owner": {
     "name": "Good Native",
     "url": "https://www.goodnative.co"
@@ -8,7 +9,7 @@
     {
       "name": "naming",
       "source": "./plugins/naming",
-      "description": "Good Native naming principles — apply when naming products, tools, repos, or packages, and when writing name rationales"
+      "description": "Good Native naming principles \u2014 apply when naming products, tools, repos, or packages, and when writing name rationales"
     }
   ]
 }
